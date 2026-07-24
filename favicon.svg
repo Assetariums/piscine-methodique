@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Repère de Piscine Méthodique</title>
+  <rect width="128" height="128" rx="24" fill="#f7fbfa"/>
+  <circle cx="64" cy="64" r="47" fill="none" stroke="#102a2e" stroke-width="8"/>
+  <path d="M24 67c13-11 27-11 40 0s27 11 40 0" fill="none" stroke="#007c83" stroke-width="9" stroke-linecap="round"/>
+  <path d="M39 43v10M64 34v15M89 43v10" stroke="#102a2e" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="64" cy="67" r="6" fill="#007c83"/>
+</svg>

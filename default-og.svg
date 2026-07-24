@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Piscine Méthodique</title>
+  <desc id="desc">Observer, mesurer, diagnostiquer les problèmes d’une piscine privée.</desc>
+  <rect width="1200" height="630" fill="#f7fbfa"/>
+  <rect x="54" y="54" width="1092" height="522" rx="32" fill="#dceceb"/>
+  <g transform="translate(92 196)">
+    <circle cx="112" cy="112" r="94" fill="#f7fbfa" stroke="#102a2e" stroke-width="14"/>
+    <path d="M30 116c27-21 54-21 82 0s55 21 82 0" fill="none" stroke="#007c83" stroke-width="16" stroke-linecap="round"/>
+    <path d="M64 68v20M112 50v30M160 68v20" stroke="#102a2e" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="112" cy="116" r="12" fill="#007c83"/>
+  </g>
+  <text x="370" y="279" fill="#102a2e" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700">Piscine Méthodique</text>
+  <text x="370" y="355" fill="#007c83" font-family="Arial, Helvetica, sans-serif" font-size="34">Observer · mesurer · diagnostiquer</text>
+  <text x="370" y="414" fill="#102a2e" font-family="Arial, Helvetica, sans-serif" font-size="28">Eau, filtration et équipements des piscines privées</text>
+</svg>
